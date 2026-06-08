@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "f7419b24-e487-447c-9e45-9d9e257f3ef8",
+  "name": "lifepod",
+  "symbol": "bg_lifepod",
+  "tileColors": "",
+  "filename": "lifepod.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}

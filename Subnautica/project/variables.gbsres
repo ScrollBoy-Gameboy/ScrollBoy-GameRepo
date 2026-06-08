@@ -160,6 +160,21 @@
       "id": "5fa52cd0-57cd-414c-8b93-5601c6e9636f__L0",
       "name": "Defeated",
       "symbol": "var_defeated_2"
+    },
+    {
+      "id": "cd867231-df63-48b9-983e-5c3e5f379999__L0",
+      "name": "Menu Choice",
+      "symbol": "var_menu_choice_0"
+    },
+    {
+      "id": "eeb554fe-272e-4266-9b40-8d42d660580f__L0",
+      "name": "Menu Choice",
+      "symbol": "var_menu_choice_1"
+    },
+    {
+      "id": "eeb554fe-272e-4266-9b40-8d42d660580f__L1",
+      "name": "Local 1",
+      "symbol": "var_local_1"
     }
   ],
   "constants": []

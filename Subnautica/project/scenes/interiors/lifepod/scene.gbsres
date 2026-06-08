@@ -1,0 +1,39 @@
+{
+  "_resourceType": "scene",
+  "id": "254c934c-5492-4413-bdbe-c9daac0fe330",
+  "_index": 3,
+  "name": "Interiors/Lifepod",
+  "backgroundId": "f7419b24-e487-447c-9e45-9d9e257f3ef8",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "colorModeOverride": "none",
+  "paletteIds": [
+    "7eb1ae82-5f7e-403a-a6e3-84625826bee5",
+    "b2724335-c1c4-48ba-a1a9-65d0d5aeb59d",
+    "b2724335-c1c4-48ba-a1a9-65d0d5aeb59d",
+    "b2724335-c1c4-48ba-a1a9-65d0d5aeb59d",
+    "b2724335-c1c4-48ba-a1a9-65d0d5aeb59d",
+    "b2724335-c1c4-48ba-a1a9-65d0d5aeb59d",
+    "b2724335-c1c4-48ba-a1a9-65d0d5aeb59d",
+    "7eb1ae82-5f7e-403a-a6e3-84625826bee5"
+  ],
+  "spritePaletteIds": [],
+  "collisions": "0054+0fc+008+0f!00a+0f!008+0f!00a+0f!008+0f!00a+0f!008+0f!00a+0f!008+0f!00a+0f!008+0f!00a+0f!008+0f!00a+0f!008+0f!00a+0f!008+0f!00a+0f!008+0f!00a+0f!008+0f5+002+0f5+002c+",
+  "autoFadeSpeed": 2,
+  "symbol": "scene_5",
+  "x": 1136,
+  "y": 232,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "monoBGP": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "playerSpriteSheetId": "c475c713-9fd8-455a-b9bc-8c62b2b8fd5e"
+}

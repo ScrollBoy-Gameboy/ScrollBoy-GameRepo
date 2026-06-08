@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "0e658b8a-c47f-4513-a8c7-ae0a0c894b09",
+  "name": "safe_shallows",
+  "symbol": "bg_safe_shallows",
+  "tileColors": "001000+",
+  "filename": "safe_shallows.png",
+  "width": 64,
+  "height": 64,
+  "imageWidth": 512,
+  "imageHeight": 512
+}

@@ -1,0 +1,47 @@
+{
+  "_resourceType": "actor",
+  "id": "a8fb77f0-65d5-4be3-b77c-6762e145a029",
+  "name": "Lifepod",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "932e49f9-6e33-4755-ba79-5d99b897a16b",
+  "prefabId": "",
+  "direction": "up",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "collisionExtraFlags": [],
+  "prefabScriptOverrides": {},
+  "symbol": "actor_0",
+  "script": [
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "254c934c-5492-4413-bdbe-c9daac0fe330",
+        "x": {
+          "type": "number",
+          "value": 9
+        },
+        "y": {
+          "type": "number",
+          "value": 15
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "eecee1f5-8aef-40a9-bc3f-5524a4093f37"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "coordinateType": "tiles",
+  "x": 1,
+  "y": 1,
+  "_index": 0
+}
