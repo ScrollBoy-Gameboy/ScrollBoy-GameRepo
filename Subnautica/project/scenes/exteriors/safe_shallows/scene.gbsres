@@ -27,27 +27,11 @@
       "id": "f64e78b7-31bf-4af0-a6cb-6df0a50f893e"
     },
     {
-      "command": "EVENT_SET_INPUT_SCRIPT",
+      "command": "EVENT_CALL_CUSTOM_EVENT",
       "args": {
-        "input": [
-          "start"
-        ],
-        "override": true,
-        "__scriptTabs": "press",
-        "__collapse": true
+        "customEventId": "bc9f67e9-b6f2-4216-b8b6-63505f3b7118"
       },
-      "children": {
-        "true": [
-          {
-            "command": "EVENT_CALL_CUSTOM_EVENT",
-            "args": {
-              "customEventId": "bc9f67e9-b6f2-4216-b8b6-63505f3b7118"
-            },
-            "id": "f58024ab-f4c7-488a-9e34-cb7ba75cb738"
-          }
-        ]
-      },
-      "id": "4eb337d7-2500-4632-8f4c-df93f44054d9"
+      "id": "f58024ab-f4c7-488a-9e34-cb7ba75cb738"
     }
   ],
   "playerHit1Script": [],

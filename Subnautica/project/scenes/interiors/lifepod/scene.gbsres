@@ -27,27 +27,11 @@
   "y": 232,
   "script": [
     {
-      "command": "EVENT_SET_INPUT_SCRIPT",
+      "command": "EVENT_CALL_CUSTOM_EVENT",
       "args": {
-        "input": [
-          "start"
-        ],
-        "override": true,
-        "__scriptTabs": "press",
-        "__collapse": true
+        "customEventId": "bc9f67e9-b6f2-4216-b8b6-63505f3b7118"
       },
-      "children": {
-        "true": [
-          {
-            "command": "EVENT_CALL_CUSTOM_EVENT",
-            "args": {
-              "customEventId": "bc9f67e9-b6f2-4216-b8b6-63505f3b7118"
-            },
-            "id": "3461e281-688a-484e-b6ad-2f06ee3a18ca"
-          }
-        ]
-      },
-      "id": "39eb94aa-4f87-4cb1-8d42-da2ec6ff3002"
+      "id": "3461e281-688a-484e-b6ad-2f06ee3a18ca"
     }
   ],
   "playerHit1Script": [],
