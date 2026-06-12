@@ -20,7 +20,7 @@
       "id": "82ba937b-2e7f-4044-a567-50f9c91be84d",
       "command": "EVENT_MUSIC_PLAY",
       "args": {
-        "musicId": "4f144f63-6005-4e99-b570-92a526201bd3",
+        "musicId": "24c196c1-3161-48f3-b7cf-766897558e6d",
         "loop": false
       }
     },
@@ -132,5 +132,5 @@
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "collisions": ""
+  "collisions": "00168+"
 }

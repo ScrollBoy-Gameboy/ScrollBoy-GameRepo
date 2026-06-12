@@ -2,11 +2,6 @@
   "_resourceType": "variables",
   "variables": [
     {
-      "id": "0",
-      "name": "Quest1",
-      "symbol": "var_quest1"
-    },
-    {
       "id": "1",
       "name": "Quest2",
       "symbol": "var_quest2"
@@ -175,6 +170,16 @@
       "id": "eeb554fe-272e-4266-9b40-8d42d660580f__L1",
       "name": "Local 1",
       "symbol": "var_local_1"
+    },
+    {
+      "id": "457f0f08-9e53-4c2d-8972-1bdc4d9b81d4__L0",
+      "name": "Local 1",
+      "symbol": "var_local_2"
+    },
+    {
+      "id": "e60f5ac3-abc9-49ca-953a-8d96fff58794__L0",
+      "name": "Local 1",
+      "symbol": "var_local_0"
     }
   ],
   "constants": []

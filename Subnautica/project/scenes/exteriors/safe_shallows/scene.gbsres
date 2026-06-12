@@ -5,13 +5,13 @@
   "name": "Exteriors/Safe Shallows",
   "backgroundId": "0e658b8a-c47f-4513-a8c7-ae0a0c894b09",
   "tilesetId": "",
-  "width": 64,
-  "height": 64,
+  "width": 80,
+  "height": 72,
   "type": "TOPDOWN",
   "colorModeOverride": "none",
   "paletteIds": [],
   "spritePaletteIds": [],
-  "collisions": "001000+",
+  "collisions": "001680+",
   "autoFadeSpeed": 1,
   "symbol": "scene_6",
   "x": 1296,
@@ -25,6 +25,29 @@
         "loopAnim": true
       },
       "id": "f64e78b7-31bf-4af0-a6cb-6df0a50f893e"
+    },
+    {
+      "command": "EVENT_SET_INPUT_SCRIPT",
+      "args": {
+        "input": [
+          "start"
+        ],
+        "override": true,
+        "__scriptTabs": "press",
+        "__collapse": true
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_CALL_CUSTOM_EVENT",
+            "args": {
+              "customEventId": "bc9f67e9-b6f2-4216-b8b6-63505f3b7118"
+            },
+            "id": "f58024ab-f4c7-488a-9e34-cb7ba75cb738"
+          }
+        ]
+      },
+      "id": "4eb337d7-2500-4632-8f4c-df93f44054d9"
     }
   ],
   "playerHit1Script": [],

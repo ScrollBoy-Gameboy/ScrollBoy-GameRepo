@@ -18,6 +18,13 @@
   "y": 64,
   "script": [
     {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "98a04f41-6714-4a44-bff9-eb4a7735c1fe"
+      },
+      "id": "b82d4057-c32c-49ea-b3bc-a0493dd2bbd4"
+    },
+    {
       "command": "EVENT_ACTOR_DEACTIVATE",
       "args": {
         "actorId": "f9934f3b-beb3-4fa9-a25e-84168cdf3cee",
@@ -82,14 +89,16 @@
             "args": {
               "actorId": "27711539-96b2-4f34-b1d3-73fb2d89c736",
               "spriteStateId": "Shoot",
-              "loopAnim": false
+              "loopAnim": false,
+              "__collapse": false
             },
             "id": "b1aef906-d892-4f78-9199-d2206802e2f5"
           },
           {
             "command": "EVENT_ACTOR_ACTIVATE",
             "args": {
-              "actorId": "27711539-96b2-4f34-b1d3-73fb2d89c736"
+              "actorId": "27711539-96b2-4f34-b1d3-73fb2d89c736",
+              "__collapse": false
             },
             "id": "5c5563c3-b68e-4d9e-902b-f3641d122cbd"
           },
@@ -103,7 +112,9 @@
               "frames": {
                 "type": "number",
                 "value": 1
-              }
+              },
+              "__collapse": false,
+              "__comment": false
             },
             "id": "ac0d4737-6d9e-4d43-b038-33359dc1b2fd"
           },
@@ -187,7 +198,8 @@
           "type": "number",
           "value": 17
         },
-        "__collapseElse": true
+        "__collapseElse": true,
+        "__collapse": false
       },
       "children": {
         "true": [

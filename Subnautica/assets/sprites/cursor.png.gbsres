@@ -17,7 +17,7 @@
               "id": "db990311-10f0-43f3-927e-90f8546bd407",
               "tiles": [
                 {
-                  "id": "1bc99e97-6023-4ace-93d1-94c4a7f23f69",
+                  "id": "b7dd9d46-b7a9-4b4b-82c0-bf081fba766a",
                   "x": 0,
                   "y": 0,
                   "sliceX": 0,
@@ -30,7 +30,7 @@
                   "priority": false
                 },
                 {
-                  "id": "b7d5232d-e001-4a15-a9b7-facfcb98a2a0",
+                  "id": "b95a9040-883c-4ef7-a6b8-bb970992d0e0",
                   "x": 8,
                   "y": 0,
                   "sliceX": 8,
@@ -50,41 +50,10 @@
           "id": "85ab8f09-9ade-41af-a7f4-79fb63c3d65f",
           "frames": [
             {
-              "id": "ffefe133-0f19-41a2-ae63-44e4259f358c",
+              "id": "ead28323-6530-49c0-850b-5b2809d64b3c",
               "tiles": [
                 {
-                  "id": "20ee38d4-7f3e-4269-8583-36dd0a2d9f29",
-                  "x": 0,
-                  "y": 1,
-                  "sliceX": 16,
-                  "sliceY": 0,
-                  "palette": 0,
-                  "flipX": false,
-                  "flipY": false,
-                  "objPalette": "OBP0",
-                  "paletteIndex": 0,
-                  "priority": false
-                },
-                {
-                  "id": "ec8a68b4-6776-4c3b-aef0-2ffaee0250d0",
-                  "x": 8,
-                  "y": 1,
-                  "sliceX": 24,
-                  "sliceY": 0,
-                  "palette": 0,
-                  "flipX": false,
-                  "flipY": false,
-                  "objPalette": "OBP0",
-                  "paletteIndex": 0,
-                  "priority": false
-                }
-              ]
-            },
-            {
-              "id": "aafa1ab6-53ee-4506-b75c-7555cfbec989",
-              "tiles": [
-                {
-                  "id": "f05a3c08-1f49-4984-b10e-e78ea54b7a23",
+                  "id": "66684806-d702-4f5b-95a0-9a7fc850ac28",
                   "x": 0,
                   "y": 0,
                   "sliceX": 16,
@@ -97,7 +66,7 @@
                   "priority": false
                 },
                 {
-                  "id": "46cc775b-b378-481c-910d-ca829bd9e7c9",
+                  "id": "173adedf-2113-408e-a79c-66cab40b0685",
                   "x": 8,
                   "y": 0,
                   "sliceX": 24,
@@ -210,5 +179,5 @@
   "filename": "cursor.png",
   "width": 32,
   "height": 16,
-  "checksum": "1f21ce7ede568c59e378eec3bce19e7abe50414a"
+  "checksum": "350e609277d90bd96e25f0e35e4db33e33419f2f"
 }

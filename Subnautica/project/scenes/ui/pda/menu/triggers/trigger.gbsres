@@ -1,0 +1,41 @@
+{
+  "_resourceType": "trigger",
+  "id": "bf5c8da4-6ee0-4b99-a2a8-507acec5fa9b",
+  "name": "",
+  "prefabId": "",
+  "x": 7,
+  "y": 11,
+  "symbol": "trigger_3",
+  "prefabScriptOverrides": {},
+  "width": 2,
+  "height": 2,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          " INVENTORY\nCOMING SOON"
+        ],
+        "__section": "behavior",
+        "avatarId": "5d8a8578-421d-4fdd-817f-0b6df9ce15e2",
+        "minHeight": 4,
+        "maxHeight": 6,
+        "textX": 3,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": true,
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "text",
+        "closeButton": "any",
+        "closeDelayTime": 1,
+        "closeDelayFrames": 30
+      },
+      "id": "f268534d-dfa2-4099-950f-96b04186958a"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 0
+}

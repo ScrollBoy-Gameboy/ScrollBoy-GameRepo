@@ -1,0 +1,47 @@
+{
+  "_resourceType": "scene",
+  "id": "27da8539-c21d-41fe-a511-607b7254f6e4",
+  "_index": 6,
+  "name": "UI/PDA/Menu",
+  "backgroundId": "833ba949-73e8-4fb6-89ee-59faa5791724",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "POINTNCLICK",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "0f2e+00c+0f7+00d+0f7+00d+0f8+00c+0f9+00b+0f9+00b+0f9+00b+0f9+00b+0f9+00b+0f9+00b+0f8+00c+0f7+00d+0f7+00d+0f8+00c+0f2a+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_0",
+  "x": 792,
+  "y": 224,
+  "script": [
+    {
+      "command": "EVENT_SET_INPUT_SCRIPT",
+      "args": {
+        "input": [
+          "b"
+        ],
+        "override": true,
+        "__scriptTabs": "press"
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_SCENE_POP_STATE",
+            "args": {
+              "fadeSpeed": "2"
+            },
+            "id": "31c2dc11-c80a-4a74-b881-85560b38f02c"
+          }
+        ]
+      },
+      "id": "3c435084-9206-45de-84d8-474d1831e828"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "autoFadeEventCollapse": false
+}
